@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sulaimanhussain1
-- 👀 I’m interested in Mobile Web Development.
+- 👋 Hi, I’m Sulaiman Hussain
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning BlockChain, Metaverse and Web 3.0. 
 - 💞️ I’m looking to collaborate on Applications.
 
