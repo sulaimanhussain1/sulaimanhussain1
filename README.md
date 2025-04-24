@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Sulaiman Hussain and I'm a MERN Stack Developer and Now I am learning Agentic AI.</h2>
 
 ###
 
